@@ -1,0 +1,5 @@
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.csprojResolveAssemblyReference.cache
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.pdb

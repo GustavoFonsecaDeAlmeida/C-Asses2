@@ -1,0 +1,10 @@
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.dll.config
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.pdb
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\EntityFramework.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\EntityFramework.xml
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.csprojResolveAssemblyReference.cache
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Domain\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.pdb

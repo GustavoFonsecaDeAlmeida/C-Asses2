@@ -1,0 +1,41 @@
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe.config
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.pdb
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Data.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Services.Logger.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Services.XML.dll
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.pdb
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Data.pdb
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Services.Logger.pdb
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Services.XML.pdb
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe
+C:\vso\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.pdb
+C:\Users\Administrador\Downloads\C-Asses-master (1)\C-Asses-master\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe.config
+C:\Users\Administrador\Downloads\C-Asses-master (1)\C-Asses-master\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe
+C:\Users\Administrador\Downloads\C-Asses-master (1)\C-Asses-master\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe.config
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.exe
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Data.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.XML.dll
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.WpfApp.exe
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Domain.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Data.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.Logger.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Infra.XML.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.WpfApp.pdb
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\GRPADS01C1-M2-P1.GustavoFonseca.Solution\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp\obj\Debug\GRPADS01C1-M2-P1.GustavoFonseca.Presentation.ConsoleApp.csprojResolveAssemblyReference.cache

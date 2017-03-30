@@ -1,0 +1,9 @@
+﻿<Application x:Class="GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

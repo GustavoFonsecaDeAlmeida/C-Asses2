@@ -1,0 +1,32 @@
+﻿<Window x:Class="GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="444.619" Width="709.386">
+    <Grid Height="400" Margin="10,0,3.6,-29.6">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="73" Margin="54,0,0,0" VerticalAlignment="Top" Width="576" Background="White"/>
+        <Label x:Name="lblMatricula" Content="MATRICULA" HorizontalAlignment="Left" Margin="81,30,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="84" FontWeight="Bold" BorderBrush="Black" Foreground="Black" RenderTransformOrigin="1.722,0.625"/>
+        <TextBox x:Name="txtMatricula" Height="23" Margin="170,33,57,0" TextWrapping="Wrap" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Text="Informe a matricula" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75" GotFocus="txtMatricula_GotFocus" />
+        <Button x:Name="btnBuscar" Content="BUSCAR" HorizontalAlignment="Left" Margin="484,33,0,0" VerticalAlignment="Top" Width="75" Height="23" Background="{DynamicResource {x:Static SystemColors.ControlLightLightBrushKey}}" Click="btnBuscar_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="219" Margin="12,91,0,0" VerticalAlignment="Top" Width="665" Background="White"/>
+        <TextBlock x:Name="tbkMensagem" HorizontalAlignment="Center" Margin="0,327,0,0" Foreground="White" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="403" FontSize="17.333" TextAlignment="Center" LineHeight="24" FontWeight="Bold"/>
+        <Label x:Name="lblNome" Content="NOME" HorizontalAlignment="Left" Margin="42,114,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="134" FontWeight="Bold" BorderBrush="Black" Foreground="Black"/>
+        <TextBlock x:Name="tbkNome" Height="23" Margin="31,145,490,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
+        <Label x:Name="lblMatriculaBlock" Content="MATRICULA" HorizontalAlignment="Left" Margin="273,114,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="134" FontWeight="Bold" BorderBrush="Black" Foreground="Black"/>
+        <TextBlock x:Name="tbkMatricula" Height="23" Margin="274,145,231,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
+        <Label x:Name="lblNascimento" Content="DATA NASCIMENTO:" HorizontalAlignment="Left" Margin="496,114,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="134" FontWeight="Bold" BorderBrush="Black" Foreground="Black"/>
+        <TextBlock x:Name="tbkNascimento" Height="23" Margin="496,145,-18,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
+        <Label x:Name="lblCPF" Content="CPF:" HorizontalAlignment="Left" Margin="273,203,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="134" FontWeight="Bold" BorderBrush="Black" Foreground="Black"/>
+        <TextBlock x:Name="tbkCPF" Height="23" Margin="274,234,118,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
+
+    </Grid>
+</Window>

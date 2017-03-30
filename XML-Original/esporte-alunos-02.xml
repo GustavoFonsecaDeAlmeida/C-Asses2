@@ -1,0 +1,59 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<alunos>
+  <aluno>
+    <matricula>123</matricula>
+    <nome>Gustavo Fonseca</nome>
+    <datadenascimento>13/12/1997</datadenascimento>
+    <cpf>16323111727</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>258</matricula>
+    <nome>Gabriel da silva</nome>
+    <datadenascimento>14/15/1991</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>333</matricula>
+    <nome>Rafael</nome>
+    <datadenascimento>11/13/1997</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>578</matricula>
+    <nome>Victor Hugo</nome>
+    <datadenascimento>11/12/1991</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>125</matricula>
+    <nome>Eduardo</nome>
+    <datadenascimento>17/15/1995</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>751</matricula>
+    <nome>Renato Cabral</nome>
+    <datadenascimento>15/11/1991</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>124751647</matricula>
+    <nome>Edwilson da silva</nome>
+    <datadenascimento>21/11/1997</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+  <aluno>
+    <matricula>214873848</matricula>
+    <nome>Isais S Junior</nome>
+    <datadenascimento>15/13/1994</datadenascimento>
+    <cpf>1236547891</cpf>
+    <ativo>1</ativo>
+  </aluno>
+</alunos>
