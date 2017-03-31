@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="476.508" Width="770.613">
-    <Grid Margin="10,22,-8,-95">
+        Title="MainWindow" Height="468.439" Width="831.112">
+    <Grid Margin="10,22,101,59">
         <Grid.RowDefinitions>
             <RowDefinition/>
         </Grid.RowDefinitions>
@@ -17,7 +17,7 @@
         <Label x:Name="lblMatricula" Content="MATRICULA" HorizontalAlignment="Left" Margin="81,30,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="84" FontWeight="Bold" BorderBrush="Black" Foreground="Black" RenderTransformOrigin="1.722,0.625"/>
         <TextBox x:Name="txtMatricula" Height="23" Margin="170,33,299,0" TextWrapping="Wrap" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Text="Informe a matricula" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75" GotFocus="txtMatricula_GotFocus" />
         <Button x:Name="btnBuscar" Content="BUSCAR" HorizontalAlignment="Left" Margin="484,33,0,0" VerticalAlignment="Top" Width="75" Height="23" Background="{DynamicResource {x:Static SystemColors.ControlLightLightBrushKey}}" Click="btnBuscar_Click"/>
-        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="219" Margin="12,91,0,0" VerticalAlignment="Top" Width="665" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="194" Margin="12,91,0,0" VerticalAlignment="Top" Width="645" Background="White"/>
         <TextBlock x:Name="tbkMensagem" HorizontalAlignment="Center" Margin="0,327,0,0" Foreground="White" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="403" FontSize="17.333" TextAlignment="Center" LineHeight="24" FontWeight="Bold"/>
         <Label x:Name="lblNome" Content="NOME" HorizontalAlignment="Left" Margin="42,114,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="134" FontWeight="Bold" BorderBrush="Black" Foreground="Black"/>
         <TextBlock x:Name="tbkNome" Height="23" Margin="31,145,490,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
@@ -27,7 +27,6 @@
         <TextBlock x:Name="tbkNascimento" Height="23" Margin="496,145,-18,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
         <Label x:Name="lblCPF" Content="CPF:" HorizontalAlignment="Left" Margin="273,203,0,0" VerticalAlignment="Top" Background="{x:Null}" Width="134" FontWeight="Bold" BorderBrush="Black" Foreground="Black"/>
         <TextBlock x:Name="tbkCPF" Height="23" Margin="274,234,118,0" TextWrapping="Wrap" Foreground="Black" Text="" VerticalAlignment="Top" RenderTransformOrigin="0.497,0.75"/>
-        <Image x:Name="erroimage" HorizontalAlignment="Left" Height="100" Margin="577,310,0,-10" VerticalAlignment="Top" Width="100" Source="https://cdn.pixabay.com/photo/2014/04/02/10/26/attention-303861_960_720.png"/>
 
     </Grid>
 </Window>
