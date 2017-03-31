@@ -1,8 +1,0 @@
-matricula>123; nome>Gustavo Fonseca; ativo>True; OK
-matricula>258; nome>Gabriel da silva; ativo>False; OK
-matricula>333; nome>Rafael; ativo>True; OK
-matricula>578; nome>Victor Hugo; ativo>True; OK
-matricula>125; nome>Eduardo; ativo>False; OK
-matricula>751; nome>Renato Cabral; ativo>True; OK
-matricula>124751647; nome>Edwilson da silva; ativo>True; OK
-matricula>204873848; nome>Isais S Junior; ativo>False; OK

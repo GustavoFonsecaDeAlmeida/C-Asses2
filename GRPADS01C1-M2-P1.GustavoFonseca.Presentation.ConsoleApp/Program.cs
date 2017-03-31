@@ -18,12 +18,12 @@ namespace GRPADS01C1_M2_P1.GustavoFonseca.Presentation.ConsoleApp
 
         static void Main(string[] args)
         {
-            
 
+            Console.WriteLine("Iniciando...");
             string dataHora = _logger.DataHora();
             processarXml(dataHora);
 
-            Console.WriteLine("Executado .... aperte para sair...");
+            Console.WriteLine("Concluido por favor digite uma tecla para sair");
             Console.ReadKey();
 
         }

@@ -28,6 +28,7 @@ namespace GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp
         public MainWindow()
         {
             InitializeComponent();
+            erroimage.Visibility = Visibility.Hidden;
         }
 
         private void btnBuscar_Click(object sender, RoutedEventArgs e)
@@ -44,6 +45,9 @@ namespace GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp
             }
 
             tbkMensagem.Visibility = Visibility.Visible;
+            
+
+
 
         }
 
@@ -52,6 +56,7 @@ namespace GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp
         {
             txtMatricula.Text = "";
             tbkMensagem.Visibility = Visibility.Hidden;
+            erroimage.Visibility = Visibility.Hidden;
             limparTextBlocks();
         }
 
@@ -82,13 +87,16 @@ namespace GRPADS01C1_M2_P1.GustavoFonseca.Presentation.WpfApp
             {
                 tbkMensagem.Text = "Aluno suspenso";
                 tbkMensagem.Background = Brushes.Red;
+                erroimage.Visibility = Visibility.Visible;
             }
+           
         }
 
         private void mensagem()
         {
             tbkMensagem.Text = "Aluno não cadastrado!";
             tbkMensagem.Background = Brushes.Blue;
+            erroimage.Visibility = Visibility.Visible;
         }
     }
 }

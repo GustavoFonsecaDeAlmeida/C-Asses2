@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <alunos>
   <aluno>
-    <matricula>123</matricula>
-    <nome>Gustavo Fonseca</nome>
+    <matricula>1</matricula>
+    <nome>Gustavo</nome>
     <datadenascimento>03/02/1997</datadenascimento>
     <cpf>16323011727</cpf>
     <ativo>1</ativo>
   </aluno>
   <aluno>
-    <matricula>258</matricula>
+    <matricula>2</matricula>
     <nome>Gabriel da silva</nome>
     <datadenascimento>04/05/1991</datadenascimento>
     <cpf>1236547890</cpf>
-    <ativo>0</ativo>
+    <ativo>1</ativo>
   </aluno>
   <aluno>
-    <matricula>333</matricula>
+    <matricula>3</matricula>
     <nome>Rafael</nome>
     <datadenascimento>10/03/1997</datadenascimento>
     <cpf>1236547890</cpf>
     <ativo>1</ativo>
   </aluno>
   <aluno>
-    <matricula>578</matricula>
+    <matricula>4</matricula>
     <nome>Victor Hugo</nome>
     <datadenascimento>10/02/1991</datadenascimento>
     <cpf>1236547890</cpf>
     <ativo>1</ativo>
   </aluno>
   <aluno>
-    <matricula>125</matricula>
+    <matricula>5</matricula>
     <nome>Eduardo</nome>
     <datadenascimento>07/05/1995</datadenascimento>
     <cpf>1236547890</cpf>
     <ativo>0</ativo>
   </aluno>
   <aluno>
-    <matricula>751</matricula>
+    <matricula>6</matricula>
     <nome>Renato Cabral</nome>
     <datadenascimento>15/11/1990</datadenascimento>
     <cpf>1236547890</cpf>
-    <ativo>1</ativo>
+    <ativo>0</ativo>
   </aluno>
   <aluno>
-    <matricula>124751647</matricula>
+    <matricula>7</matricula>
     <nome>Edwilson da silva</nome>
     <datadenascimento>20/10/1997</datadenascimento>
     <cpf>1236547890</cpf>
-    <ativo>1</ativo>
+    <ativo>0</ativo>
   </aluno>
   <aluno>
-    <matricula>204873848</matricula>
+    <matricula>8</matricula>
     <nome>Isais S Junior</nome>
     <datadenascimento>15/03/1994</datadenascimento>
     <cpf>1236547890</cpf>
